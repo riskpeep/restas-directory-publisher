@@ -13,7 +13,7 @@
            #:*ignore-pathname-p*
            #:pathname-info
            #:hidden-pathname-p)
-  (:render-method #'restas.directory-publisher.view:autoindex))
+  (:render-method #'RESTAS.DIRECTORY-PUBLISHER.VIEW:AUTOINDEX))
 
 (in-package #:restas.directory-publisher)
 
